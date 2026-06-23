@@ -1,0 +1,4 @@
+Route,Destination,Transit Time (days),Est. Freight ($/bbl),vs Baseline (Time),vs Baseline (Cost),Notes
+Baseline: Persian Gulf (Ras Tanura),East Asia (China/Japan/Korea),18–22,~1.0–1.5,—,—,Standard VLCC route via Strait of Hormuz & Malacca
+Route 1: Yanbu (Red Sea),East Asia (China/Japan/Korea),22–28,~1.5–2.2,+4–6 days (~20–30%),+$0.5–0.7/bbl (~40–50%),Requires Suez Canal or Cape Agulhas detour; canal fees add cost
+Route 2: Americas (USGC) via Cape,East Asia (China/Japan/Korea),45–60,~3.5–5.5,+27–38 days (~150–200%),+$2.5–4.0/bbl (~200–280%),Via Cape of Good Hope or Panama Canal; high Aframax/Suezmax costs
