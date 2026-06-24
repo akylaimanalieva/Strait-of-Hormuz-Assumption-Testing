@@ -1,4 +1,24 @@
 route,aspect,days_found,cost_found,pct_found,source,quote_snippet
+Yanbu,Transit,11,,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,How Saudi Arabia Rerouted Oil Exports to the Red Sea Energy & Oil The Eleven-Day Pivot That Rewrote Saudi Arabia’s Energy Map House of Saud Aramco East-West pipeline hit 7 million bpd as Yanbu exports
+Yanbu,Transit,,110,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,"With oil trading above $110 per barrel, the reduced volume still generates substantial revenue — and it prevents Red Sea storage infrastructure from reaching capacity ."
+Yanbu,Transit,,110,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,Oil at $110 per barrel generates windfall revenue per barrel but on reduced volumes.
+Yanbu,Transit,,110,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,"At $110 per barrel and eight million barrels per day of total output, daily revenue runs at approximately $880 million."
+Yanbu,Transit,,65,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,"Before the war, at $65 per barrel and 10.1 million barrels per day, daily revenue was approximately $657 million."
+Yanbu,Transit,,5,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,"The additional shipping cost — estimated at $3 to $5 per barrel in current market conditions — erodes Saudi crude’s price competitiveness against closer alternatives like Russian, Central Asian, or Au"
+Yanbu,Transit,,110,,How Saudi Arabia Rerouted Oil Exports to the Red Sea,The reroute has contributed to oil prices exceeding $110 per barrel by reducing available Saudi export volumes from pre-war levels of roughly 7.4 million barrels per day to an estimated 4 to 5 million
+Yanbu,Transit,10,,,Saudi Arabia’s Red Sea Pivot: Navigating Oil Exports ...,"Historical attacks (2023-2025) sank ships, spilled cargo, and reduced trade by 1.3%, forcing reroutes around Africa—adding 10 days and $1 million in fuel per trip."
+Yanbu,Transit,,2,,Saudi Arabia’s Red Sea Pivot: Navigating Oil Exports ...,"Economic Implications: Costs, Markets, and Spillovers This pivot is costly: Longer routes add $1-2 per barrel in freight, potentially forcing Saudi cuts if unsustained."
+Yanbu,Transit,,2026,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,"King Khalid authorized construction in 1979, and the line was completed in 1981 at a cost of approximately $2.5 billion (roughly $8.5 billion in 2026 dollars)."
+Yanbu,Transit,,,127%,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,View Full Dashboard → Our research found that the Pantanassa’s $28 million charter represents a 127% premium over January 2026 rates for the same voyage.
+Yanbu,Transit,12 to 15,,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,"The additional distance ties up each vessel for an extra 12 to 15 days, further reducing effective fleet capacity."
+Yanbu,Transit,11,,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,Aramco restored full production within 11 days — an achievement that surprised industry observers and demonstrated the company’s depth of engineering capability and spare-parts inventory.
+Yanbu,Transit,,100,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,That is why oil prices have risen 10 to 13% and are widely expected to breach $100 per barrel within days.
+Yanbu,Transit,29,,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,"At pre-crisis export rates of 6.4 million bpd, that buffer represents roughly 29 days of exports."
+Yanbu,Transit,145,,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,The country imports approximately 90% of its crude oil from the Persian Gulf and has strategic reserves covering roughly 145 days of consumption.
+Yanbu,Transit,,14,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,"At that price, the shipping cost alone adds approximately $14 per barrel to the delivered cost of crude — a surcharge that will ultimately be passed through to Korean consumers in the form of higher g"
+Yanbu,Transit,,100,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,Energy analysts widely expect Brent crude to breach $100 per barrel within the first week of the closure and potentially reach $120 to $150 if the blockade persists through March.
+Yanbu,Transit,,40,,Aramco East-West Pipeline: Saudi Oil Reroute to Red Sea,The 1990 crisis caused oil prices to roughly double from $20 to $40 per barrel over several months.
+Yanbu,Transit,15-20,,,Crude supplies pivot to Red Sea to bypass Hormuz - KSA,"Rerouting Indian or Gulf exports around the Cape of Good Hope adds 15-20 days to transit times — but the bigger shock is the war-risk premium, which has jumped from 0.025% to 0.5% of vessel value in j"
 Yanbu,Cost,10,,,Saudi Arabia - Wikipedia,"[114] The government regained control of the mosque after 10 days, and those captured were executed."
 Yanbu,Cost,,1,,"Saudi Arabia | History, Map, Flag, Capital, Population ...","38,487,000
 - Currency Exchange Rate:
@@ -11,5 +31,14 @@ Yanbu,Cost,,1,,"Saudi Arabia | History, Map, Flag, Capital, Population ...","38,
 - Islam
 - Official Name:
 - Al-Mamlaka"
-Yanbu,Cost,,10,,1バレル10ドル以上の海運コスト上昇の背景。原油供給リアルタイムレポート（2026/5/3） - sattu-ai-agent.com,The reason behind the rise in shipping costs of more than $10 per barrel.
+Americas_Cape,Transit,,1.75,,Arbitrage Window Closing for American Crude in Asia,"The additional cost for carrying crude from the U.S. Gulf Coast to Asia has now reached $1.75 per barrel, a trade source told Reuters this week."
+Americas_Cape,Transit,,3.84,,Arbitrage Window Closing for American Crude in Asia,"The premium of Murban over Brent futures, for example, has slumped from as high as $3.84 per barrel on September 12 to $1.63 a barrel on September 26, according to exchange data compiled by Bloomberg."
+Americas_Cape,Cost,,4,,Surging Tanker Rates Make U.S Oil Too Expensive for Asia,"The premium for WTI for April delivery on a cost-and-freight basis has now jumped to more than $4 per barrel over the Dubai benchmarks, compared to a $2 a barrel premium last week, traders told Reuter"
+Americas_Cape,Cost,,2; 1.50,,Surging Tanker Rates Make U.S Oil Too Expensive for Asia,"So Asian buyers are turning to more Middle Eastern crude, especially after Saudi Arabia—the world’s top crude oil exporter—slashed the price of its crude for Asia for February loading by $2 per barrel"
+Americas_Cape,Cost,,5,,Strait of Hormuz Crisis: What Truckers Should Know About ...,"Reuters quoted a rule-of-thumb that a $5 per barrel move in crude should translate to about 12 cents per gallon for gasoline and diesel, and noted that wholesale prices can jump even faster during the"
+Americas_Cape,Cost,60,,,Strait of Hormuz Crisis: What Truckers Should Know About ...,"California’s DMV announced it extended the anticipated cancellation date by 60 days while working with FMCSA prior to March 6, 2026."
+Americas_Cape,Cost,,5,,Strait of Hormuz Crisis: What Truckers Should Know About ...,"Reuters quoted a rule-of-thumb that a $5 per barrel crude change can translate into about 12 cents per gallon for gasoline and diesel, and wholesalers can move even faster in the first 48 hours."
+Yanbu,Transit,,10,,1バレル10ドル以上の海運コスト上昇の背景。原油供給リアルタイムレポート（2026/5/3） - sattu-ai-agent.com,The reason behind the rise in shipping costs of more than $10 per barrel.
 Yanbu,Cost,,000,,"中東情勢で海上運賃が最大4,000USD上昇 紅海・スエズ回避でベトナム輸出企業に影響 - access-online.net","Maritime freight increases by up to 4,000 USD due to Middle East situation; avoidance of Red Sea/Suez impacts Vietnamese export companies access-online.net"
+Americas_Cape,Transit,2,,,原油・エネルギー | 最新原油・エネルギーニュース | ロイター,2 days ago · We deliver the latest information and related news on crude oil and energy-related stocks from the world's stock markets 24 hours a day.
+Americas_Cape,Transit,45; 20,,,"オイルロード超大型タンカー12,000kmの旅 「一航海の軌跡 …","A VLCC travels this oil road round trip for about 45 days, including about 20 days each way and about five days for loading and unloading crude oil."
