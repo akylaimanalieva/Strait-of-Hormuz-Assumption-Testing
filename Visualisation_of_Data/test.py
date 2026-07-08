@@ -21,8 +21,7 @@ before a single plot renders:
 
 Run with:
     python -m unittest Visualisation_of_Data/test.py -v
-or:
-    python -m pytest Visualisation_of_Data/test.py -v
+
 """
 
 import json

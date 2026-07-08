@@ -13,13 +13,7 @@ trusting the numbers.
  
 marinetraffic.org was evaluated first but only offers a live ship-position map -- no
 historical export, no free API -- so it isn't used here.
- 
-Usage:
-    python3 Visualisation_of_Data/malacca_traffic_analysis.py
- 
-Output:
-    Prints sanity checks and the before/after event table to the console, and saves
-    the traffic chart to Visualisation_of_Data/malacca_traffic_chart.png
+
 """
  
 import sys
