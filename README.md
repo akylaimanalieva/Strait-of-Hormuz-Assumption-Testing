@@ -6,10 +6,11 @@ s
 ## 👥 Team Members
 
 - Ai Nakayama (@ainakayama90) - Reader and Subject Specialist  
-- Akyla Imanalieva (@akylaimanalieva) - Coding Specialist  
+- Akyla Imanalieva (@akylaimanalieva) - Trouble shooting and Git specialist. Git arragments. 
 - Aston Chia (@AstonChia99) - Data Specialist  
 - Ririka Noda (@RirikaNoda) - Reader and Subject Specialist 
 - Mami Umeki (@mamiumeki01) - Data Specialist 
+- Special thanks to Claude 
 
 
 ## ❓ Research Question & 🎯 Hypothesis
