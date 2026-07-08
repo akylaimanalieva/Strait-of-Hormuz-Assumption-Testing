@@ -1,10 +1,7 @@
 """
 Tests for the notebooks in Visualisation_of_Data/.
 
-Several of these notebooks scrape live websites (DuckDuckGo, Google News RSS)
-and produce non-deterministic output, so this suite does not execute them
-end-to-end. Instead it checks the two things that most often break a notebook
-before a single plot renders:
+This test checks the two things that most often break a notebook before a single plot renders:
 
   1. Notebook source itself. Static checks over the .ipynb JSON that catch
      copy-paste bugs like the ones already found in this repo:
